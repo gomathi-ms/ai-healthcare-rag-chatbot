@@ -41,3 +41,5 @@ User Question -> Streamlit UI -> FastAPI Backend -> Retriever (Vector Database) 
 2. Create virtual environment  ->  python -m venv venv
 3. Activate environment ->  source venv/bin/activate
 4. Install dependencies ->  pip install -r requirements.txt
+5. Run API  -->  uvicorn api.app:app
+6. Run UI  -->  streamlit run frontend/streamlit_app.py
