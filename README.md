@@ -16,20 +16,20 @@ This project demonstrates modern AI system design including data ingestion, vect
 • Containerized deployment using Docker
 
 ## Tech Stack
-Backend
+# Backend
 - Python
 - FastAPI
 - LangChain
-AI / ML
+# AI / ML
 - OpenAI / LLM models
 - Embeddings
 - Retrieval Augmented Generation (RAG)
-Data & Storage
+# Data & Storage
 - FAISS Vector Database
 - Neo4j Knowledge Graph
-Frontend
+# Frontend
 - Streamlit
-DevOps
+# DevOps
 - Docker
 - GitHub
 
@@ -37,7 +37,7 @@ DevOps
 User Question -> Streamlit UI -> FastAPI Backend -> Retriever (Vector Database) -> Medical Knowledge Sources -> Large Language Model -> AI Generated Response
 
 ## Installation
-1. Clone the repository -> git clone https://github.com/yourusername/ai-healthcare-rag-chatbot.git ->  cd ai-healthcare-rag-chatbot
+1. Clone the repository -> git clone https://github.com/gomathi-ms/ai-healthcare-rag-chatbot.git ->  cd ai-healthcare-rag-chatbot
 2. Create virtual environment  ->  python -m venv venv
 3. Activate environment ->  source venv/bin/activate
 4. Install dependencies ->  pip install -r requirements.txt
