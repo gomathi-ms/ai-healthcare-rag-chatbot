@@ -34,19 +34,7 @@ DevOps
 - GitHub
 
 ## System Architecture
-User Question
-      ↓
-Streamlit UI
-      ↓
-FastAPI Backend
-      ↓
-Retriever (Vector Database)
-      ↓
-Medical Knowledge Sources
-      ↓
-Large Language Model
-      ↓
-AI Generated Response
+User Question -> Streamlit UI -> FastAPI Backend -> Retriever (Vector Database) -> Medical Knowledge Sources -> Large Language Model -> AI Generated Response
 
 ## Installation
 1. Clone the repository -> git clone https://github.com/yourusername/ai-healthcare-rag-chatbot.git ->  cd ai-healthcare-rag-chatbot
