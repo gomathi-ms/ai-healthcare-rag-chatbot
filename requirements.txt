@@ -1,0 +1,8 @@
+langchain
+openai
+faiss-cpu
+neo4j
+streamlit
+fastapi
+uvicorn
+tiktoken
