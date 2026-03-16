@@ -16,20 +16,20 @@ This project demonstrates modern AI system design including data ingestion, vect
 • Containerized deployment using Docker
 
 ## Tech Stack
-# Backend
+### Backend
 - Python
 - FastAPI
 - LangChain
-# AI / ML
+### AI / ML
 - OpenAI / LLM models
 - Embeddings
 - Retrieval Augmented Generation (RAG)
-# Data & Storage
+### Data & Storage
 - FAISS Vector Database
 - Neo4j Knowledge Graph
-# Frontend
+### Frontend
 - Streamlit
-# DevOps
+### DevOps
 - Docker
 - GitHub
 
